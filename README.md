@@ -1,9 +1,6 @@
 # DIAGRAMA-POO
-
-
-
-
-
+a imagem do diagrama:
+![POO draw.io](https://github.com/user-attachments/assets/b50489cf-f5eb-4b27-b06d-4ab51e2a2d1a)
 
 # CÓDIGO
 O código foi feito em torno de duas classes: Conta e Banco
